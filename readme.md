@@ -8,8 +8,10 @@ This preform is prepared everything for convenient work with Jade Technologies, 
 
 >To install the project:
 
-0. git clone https://github.com/vsk-d/watermark.git
-1. cd watermark
-2. bower i
-3. npm i
-4. gulp
+0. https://github.com/vsk-d/templatesMy.git
+1. cd templatesMy
+2. Rename as you wish
+3. bower i
+4. npm i
+5. gulp
+6. and enjoy the layout...
